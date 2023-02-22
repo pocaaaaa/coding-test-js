@@ -26,5 +26,5 @@ const solution = (s) => {
             });
 };
 
-console.log(solution("banana"));  // [-1, -1, -1, 2, 2, 2]
+console.log(solution("banana"));  // [-1, -1, -1, 2, 2, 2] 
 console.log(solution("foobar"));  // [-1, -1, 1, -1, -1, -1]
